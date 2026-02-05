@@ -6,3 +6,7 @@ def deploy_task_0():
 # Deployment Pipeline revision 2026-02-03 - Step 2
 def deploy_task_2():
     pass
+
+# Deployment Pipeline revision 2026-02-05 - Step 4
+def deploy_task_4():
+    pass
