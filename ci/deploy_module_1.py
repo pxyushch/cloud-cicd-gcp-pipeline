@@ -10,3 +10,7 @@ def deploy_task_13():
 # Deployment Pipeline revision 2026-02-16 - Step 15
 def deploy_task_15():
     pass
+
+# Deployment Pipeline revision 2026-02-18 - Step 17
+def deploy_task_17():
+    pass
